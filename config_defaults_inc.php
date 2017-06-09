@@ -14,17 +14,13 @@
 #
 # You should have received a copy of the GNU General Public License
 # along with MantisBT.  If not, see <http://www.gnu.org/licenses/>.
-
 /**
  * Default Configuration Variables
- *
  * This file should not be changed. If you want to override any of the values
  * defined here, define them in a file called config/config_inc.php, which will
  * be loaded after this file.
- *
  * In general a value of OFF means the feature is disabled and ON means the
  * feature is enabled.  Any other cases will have an explanation.
- *
  * For more details see http://www.mantisbt.org/docs/master-1.3.x/
  *
  * @package MantisBT
